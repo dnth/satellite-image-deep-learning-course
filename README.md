@@ -3,5 +3,11 @@
 - Each chapter is a Jupyter notebook or markdown file (if no code)
 - Notebooks should be self contained by including a cell for installing requirements, and runnable on Google colab
 
+## Run notebooks locally
+Each of the notebooks can be run locally. It is necessary to create and activate a virtual environment with the required dependencies.
+- `python3 -m venv venv`
+- `source venv/bin/activate`
+- `pip install -r requirements.txt`
+
 ## Quarto commands
 - To preview the website in the browser: `quarto preview`

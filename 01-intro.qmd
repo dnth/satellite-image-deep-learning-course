@@ -1,5 +1,28 @@
 # Introduction {.unnumbered}
+Give a motivation for applying machine learning to satellite & aerial imagery. This could include:
 
-Deep learning techniques on satellite & aerial imagery. 
+- The large amount of imagery being generated
+- The need for rapid analysis of imagery, e.g. in disaster response scenario
+- The need for automated analysis of imagery, e.g. in the case of large scale crop monitoring
 
-This is a work in progress.
+## What is machine learning?
+Machine learning is an approach in which models are trained to find patterns in data.
+Machine learning techniques have long been applied to satellite & aerial imagery. Examples include the use of clustering techniques to identify crop types. Etc
+
+## What is deep learning?
+Deep learning techniques for vision came to prominence in 2012 when AlexNet won the ImageNet Large Scale Visual Recognition Challenge (ILSVRC). AlexNet is a convolutional neural network (CNN), and in the years since then CNN based neural network techniques have been applied to a wide range of vision tasks including object detection, semantic segmentation, image captioning.
+
+Diagram of a CNN
+
+## The unique challenges of working with satellite & aerial imagery
+Compared to working with regular images found on the interet, working with satellite & aerial imagery presents a number of unique challenges. These include:
+
+- Large images
+- Many channels
+- Unusual orientation of objects
+- Large range of object sizes
+- Non standard file formats
+- Wide range of imaging modalities including SAR, multispectral, hyperspectral, thermal, etc
+
+
+
