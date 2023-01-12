@@ -1,2 +1,5 @@
 jupyterlab
 numpy
+matplotlib
+torch
+torchvision
