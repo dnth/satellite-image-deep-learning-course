@@ -1,18 +1,23 @@
 project:
-  type: book
+  type: website
   
-book:
-  title: Deep learning with satellite & aerial imagery
-  author: Robin Cole
-  logo: logo.png
-  repo-url: https://github.com/satellite-image-deep-learning/course
-  repo-branch: main
-  chapters:
-    - index.qmd
-    - ch1.ipynb
-    - ch2.ipynb
-  appendices:
-    - resources.qmd
+website:
+  title: "Deep learning with satellite & aerial imagery"
+  sidebar:
+    style: "docked"
+    search: true
+    logo: "logo.png"
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://github.com/satellite-image-deep-learning/course
+          - text: Report an issue
+            url:  https://github.com/satellite-image-deep-learning/course/issues
+    contents:
+      - index.qmd
+      - ch1.ipynb
+      - ch2.ipynb
 
 format:
   html:
