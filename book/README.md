@@ -1,0 +1,1 @@
+Quarto preview generates a bunch of files in this directory. These are gitignored.
