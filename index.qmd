@@ -10,7 +10,7 @@ This book uses the [Quarto](https://quarto.org) publishing system.
 
 The book can be viewed online or downloaded as notebooks or a PDF.
 
-- To read Python notebooks locally, git clone this repository.
+- To read Python notebooks locally, git clone this repository and open in VScode
 
 ## Credits
 
