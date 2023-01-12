@@ -1,6 +1,5 @@
 project:
   type: book
-  output-dir: book
   
 book:
   title: Deep learning with satellite & aerial imagery
@@ -10,11 +9,10 @@ book:
   repo-branch: main
   chapters:
     - index.qmd
-    - intro.qmd
-    - part: Course
-      chapters:
-        - ch1.ipynb
-        - ch2.ipynb
+    - ch1.ipynb
+    - ch2.ipynb
+  appendices:
+    - resources.qmd
 
 format:
   html:
