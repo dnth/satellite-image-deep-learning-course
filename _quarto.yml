@@ -16,13 +16,10 @@ website:
             url:  https://github.com/satellite-image-deep-learning/course/issues
     contents:
       - index.qmd
-      - 01-intro.qmd
-      - 02-classification.ipynb
-      - 03-segmentation.ipynb
+      - 01-introduction.qmd
+      - 02-classification.qmd
+      - 03-segmentation.qmd
 
 format:
   html:
     theme: cosmo
-
-execute:
-  freeze: auto
