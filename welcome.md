@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="500" />
+</p>
+
 # Welcome
 Welcome to this course on deep learning techniques on satellite & aerial imagery. The goal of this course is to take a reader from basic deep learning techniques (classification, object detection etc) all the way to more advanced techniques such as cloud removal and data fusion. However each chapter is self contained, so you can pick and choose which chapters you want to read.
 

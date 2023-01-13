@@ -6,7 +6,7 @@ website:
   sidebar:
     style: "docked"
     search: true
-    logo: "logo.png"
+    logo: "images/logo.png"
     tools:
       - icon: github
         menu:
@@ -15,10 +15,10 @@ website:
           - text: Report an issue
             url:  https://github.com/satellite-image-deep-learning/course/issues
     contents:
-      - 00-welcome.md
-      - 01-introduction.md
-      - 02-classification.md
-      - 03-segmentation.md
+      - welcome.md
+      - introduction.md
+      - classification.md
+      - segmentation.md
 
 format:
   html:
