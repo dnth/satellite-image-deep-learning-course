@@ -6,7 +6,10 @@
 - Notebooks should be self contained by including a cell for installing requirements, and runnable on Google colab
 
 ## Contributing
-Contributions are welcome! Create a fork with your changes and make a pull request. Note that notebooks must be runnable in the Google Colab environment.
+Contributions are welcome! Create a fork with your changes and make a pull request. Note that notebooks must be runnable in the Google Colab environment. Useful links below:
+
+- [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
+- [Quarto VS Code Extension](https://marketplace.visualstudio.com/items?itemName=quarto.quarto)
 
 ## Using Quarto
 - Either use the CLI or the tools in VSCode

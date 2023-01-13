@@ -8,18 +8,29 @@ website:
     search: true
     logo: "images/logo.png"
     tools:
+      - icon: display
+        href: https://www.satellite-image-deep-learning.com/
       - icon: github
         menu:
           - text: Source Code
             url:  https://github.com/satellite-image-deep-learning/course
           - text: Report an issue
             url:  https://github.com/satellite-image-deep-learning/course/issues
+      - icon: youtube
+        href: https://www.youtube.com/playlist?list=PLHifi5Wnkifd5ZndO2ichD_7nnB26eDBj
     contents:
       - welcome.qmd
-      - introduction.qmd
-      - classification.qmd
-      - segmentation.qmd
+      - section: "Basics"
+        contents:
+          - introduction.qmd
+          - classification.qmd
+          - segmentation.qmd
+      - section: "Advanced"
+        contents:
+          - data-fusion.qmd
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
