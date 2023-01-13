@@ -1,4 +1,4 @@
-# Introduction {.unnumbered}
+# Introduction
 Give a motivation for applying machine learning to satellite & aerial imagery. This could include:
 
 - The large amount of imagery being generated

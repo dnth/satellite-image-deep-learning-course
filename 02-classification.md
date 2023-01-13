@@ -1,4 +1,4 @@
-## Image classification {.unnumbered}
+## Image classification
 You may already be familiar with image classification from seeing the numerous cats vs dogs image classification tutorials on the internet. Image classification is therefore the task of assigning one (or more) labels to an entire image. When applied to satellite imagery, classification has two common uses:
 
 - label the subject of image, e.g. golf course, harbour
@@ -26,4 +26,4 @@ The internet regularly reports new 'state of the art' (SOTA) models which improv
 Interestingly the best performers vary between the Pets and Planet datasets, and Jeremy attributes this to the fact that the Planet dataset does not resemble the images in the ImageNet dataset (which most models are pre-trained on), so the models which learn new features the fastest are the best performers. He also notes that "there's little correlation between model size and performance" on the Planet dataset, and therefore advises selecting smaller models (which will also be faster in use). An additional advantage of choosing a small model is that the pace of experimentation is faster. A surprising result on the Planet dataset is that the relatively old (2015) Resnet 18 model is in the top 10 performers. As Jeremy says, "Resnet 18 has very low memory use, is fast, and is still quite accurate", and for these reasons I suggest it is a good default model to begin projects with.
 
 ## Exercise notebook
-The exercise notebook for this lesson is available to [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/satellite-image-deep-learning/course/blob/main/notebooks/02-classification.ipynb)
+The exercise notebook for this lesson is available to [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/satellite-image-deep-learning/course/blob/main/notebooks/02-classification.ipynb)
