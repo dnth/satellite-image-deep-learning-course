@@ -1,7 +1,8 @@
 # course
 - Course website using [quarto](https://quarto.org/docs/books/)
 - Goal: create MVP course ASAP by keeping contributing simple and enabling reuse of existing material as much as possible
-- Each chapter is a markdown file that can contain links to videos, presentations and notebooks
+- Each chapter is a markdown file that can contain links to videos, presentations and notebooks. 
+- Note the `.qmd` file format is Quarto flavour of markdown. 
 - Notebooks should be self contained by including a cell for installing requirements, and runnable on Google colab
 
 ## Contributing

@@ -15,10 +15,10 @@ website:
           - text: Report an issue
             url:  https://github.com/satellite-image-deep-learning/course/issues
     contents:
-      - welcome.md
-      - introduction.md
-      - classification.md
-      - segmentation.md
+      - welcome.qmd
+      - introduction.qmd
+      - classification.qmd
+      - segmentation.qmd
 
 format:
   html:

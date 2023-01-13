@@ -1,0 +1,9 @@
+# Segmentation
+
+inline math: $E = mc^{2}$
+
+
+## Video
+
+{{< video https://youtu.be/0I1TOOGfdZ0 >}}
+
