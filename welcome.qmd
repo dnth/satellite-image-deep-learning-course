@@ -6,7 +6,7 @@
 Welcome to this course on deep learning techniques on satellite & aerial imagery. The goal of this course is to take a reader from basic deep learning techniques (classification, object detection etc) all the way to more advanced techniques such as cloud removal and data fusion. However each chapter is self contained, so you can pick and choose which chapters you want to read.
 
 ## Contribute
-By making this course open source the aim to attract contributions from the top experts in the field, and ensure the course is continually maintained and improved over time. If you would like to contribute please see the Discussions tab on the Github repository.
+By making this course open source the aim to attract contributions from the top experts in the field, and ensure the course is continually maintained and improved over time. If you would like to contribute please see the Github repository.
 
 ## Authors
 List significant contributors here.
