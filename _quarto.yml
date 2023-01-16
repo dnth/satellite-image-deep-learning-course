@@ -42,6 +42,7 @@ website:
           - disaster-response.qmd
       - section: "Appendix"
         contents:
+          - image-preprocessing.qmd
           - dataset-preparation.qmd
           - imaging-physics.qmd
           - mlops.qmd
