@@ -20,14 +20,31 @@ website:
         href: https://www.youtube.com/playlist?list=PLHifi5Wnkifd5ZndO2ichD_7nnB26eDBj
     contents:
       - welcome.qmd
-      - section: "Basics"
+      - introduction.qmd
+      - section: "Basic techniques"
         contents:
-          - introduction.qmd
           - classification.qmd
+          - regression.qmd
           - segmentation.qmd
-      - section: "Advanced"
+          - object-detection.qmd
+      - section: "Advanced techniques"
         contents:
+          - sar.qmd
+          - hyperspectral.qmd
+          - super-resolution.qmd
           - data-fusion.qmd
+          - time-series.qmd
+          - clouds.qmd
+      - section: "Applications"
+        contents:
+          - urban-mapping.qmd
+          - crop-monitoring.qmd
+          - disaster-response.qmd
+      - section: "Appendix"
+        contents:
+          - dataset-preparation.qmd
+          - imaging-physics.qmd
+          - mlops.qmd
 
 format:
   html:
